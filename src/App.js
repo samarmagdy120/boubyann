@@ -19,7 +19,6 @@ const App = () => {
     <div className="container">
       <Router>
         <Navbar sidebarOpen={sidebarOpen} openSidebar={openSidebar} />
-        {/* <Main /> */}
         <Sidebar sidebarOpen={sidebarOpen} closeSidebar={closeSidebar} />
         <Switch>
           <Route exact path="/" component={Home} />
