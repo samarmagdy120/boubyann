@@ -1,1 +1,1 @@
-#rnter to login link to make validation on the form
+# Enter to login link to make validation on the form
